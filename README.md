@@ -18,12 +18,11 @@
 ---
 
 ### 🌱 Currently Learning
-- **TypeScript**
-- **GraphQL**
+- **MERN STACK**
 - **AWS and Cloud Technologies**
 
 ### 💬 Ask Me About
-- **MERN Stack Development**
+- **BACKEND Development**
 - **Frontend Frameworks**
 - **API Development**
 
