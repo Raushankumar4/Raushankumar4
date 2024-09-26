@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Raushan Kumar</h1>
-<h3 align="center">🚀 A Passionate MERN Stack Developer from India</h3>
+<h3 align="center">🚀 A Passionate Developer from India</h3>
 
 <img align="right" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="raushankumar">
 
