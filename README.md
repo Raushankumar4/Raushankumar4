@@ -76,6 +76,6 @@
 ---
 
 ### 📈 GitHub Stats
-![Raushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raushankumar&show_icons=true&theme=radical)
+![Raushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raushankumar4&show_icons=true&theme=radical)
 
 ---
