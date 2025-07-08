@@ -17,8 +17,8 @@
 ---
 
 ### 🌱 Currently Learning
-- **MERN STACK**
 - **AWS and Cloud Technologies**
+- - **DevOps**
 
 ### 💬 Ask Me About
 - **BACKEND Development**
